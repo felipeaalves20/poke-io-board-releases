@@ -15,3 +15,21 @@ Na versão instalada, use **Preferências → Atualizações** para verificar, b
 Os arquivos `SHA256SUMS.txt` e `release.json` acompanham as versões para conferência dos downloads. O jogo pode solicitar login ou captcha novamente.
 
 Este repositório contém apenas a página de downloads e as distribuições do aplicativo. O repositório de desenvolvimento permanece privado.
+
+<!-- downloads:start -->
+## Downloads
+
+Versão **v0.2.32**.
+
+| Sistema | Download |
+| --- | --- |
+| Windows 64 bits | [Instalador](https://github.com/felipeaalves20/poke-io-board-releases/releases/download/v0.2.32/Poke-IO-Board-Setup-0.2.32.exe) |
+| Linux x86_64 | [AppImage](https://github.com/felipeaalves20/poke-io-board-releases/releases/download/v0.2.32/Poke-IO-Board-0.2.32-x86_64.AppImage) |
+
+[SHA256SUMS.txt](https://github.com/felipeaalves20/poke-io-board-releases/releases/download/v0.2.32/SHA256SUMS.txt)
+[SHA256SUMS-linux.txt](https://github.com/felipeaalves20/poke-io-board-releases/releases/download/v0.2.32/SHA256SUMS-linux.txt)
+
+No Linux, permita executar o arquivo com `chmod +x Poke-IO-Board-*-x86_64.AppImage` e abra o AppImage no ambiente gráfico.
+
+[Todas as versões](https://github.com/felipeaalves20/poke-io-board-releases/releases)
+<!-- downloads:end -->
