@@ -19,15 +19,15 @@ Este repositório contém apenas a página de downloads e as distribuições do 
 <!-- downloads:start -->
 ## Downloads
 
-Versão **v0.2.35**.
+Versão **v0.2.36**.
 
 | Sistema | Download |
 | --- | --- |
-| Windows 64 bits | [Instalador](https://github.com/felipeaalves20/poke-io-board-releases/releases/download/v0.2.35/Poke-IO-Board-Setup-0.2.35.exe) |
-| Linux x86_64 | [AppImage](https://github.com/felipeaalves20/poke-io-board-releases/releases/download/v0.2.35/Poke-IO-Board-0.2.35-x86_64.AppImage) |
+| Windows 64 bits | [Instalador](https://github.com/felipeaalves20/poke-io-board-releases/releases/download/v0.2.36/Poke-IO-Board-Setup-0.2.36.exe) |
+| Linux x86_64 | [AppImage](https://github.com/felipeaalves20/poke-io-board-releases/releases/download/v0.2.36/Poke-IO-Board-0.2.36-x86_64.AppImage) |
 
-[SHA256SUMS.txt](https://github.com/felipeaalves20/poke-io-board-releases/releases/download/v0.2.35/SHA256SUMS.txt)
-[SHA256SUMS-linux.txt](https://github.com/felipeaalves20/poke-io-board-releases/releases/download/v0.2.35/SHA256SUMS-linux.txt)
+[SHA256SUMS.txt](https://github.com/felipeaalves20/poke-io-board-releases/releases/download/v0.2.36/SHA256SUMS.txt)
+[SHA256SUMS-linux.txt](https://github.com/felipeaalves20/poke-io-board-releases/releases/download/v0.2.36/SHA256SUMS-linux.txt)
 
 No Linux, permita executar o arquivo com `chmod +x Poke-IO-Board-*-x86_64.AppImage` e abra o AppImage no ambiente gráfico.
 
